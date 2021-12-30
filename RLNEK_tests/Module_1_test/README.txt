@@ -1,6 +1,6 @@
 ###This is an example of RLNEK Module 1 prompts & inputs###
 ###This is meant to ensure RLNEK was installed correctly (DISCLAIMER: not actual receptor-ligand kinetics)###
-###Please check your outputs to correspond to outputs in the outputs folder of Module_2_TEST###
+###Please check your outputs to correspond to outputs in the outputs folder of Module_1_test###
 ###Note, when NOT for testing, always copy Module_1.py to the directory where Trackmate files are located###
 
 ###start by changing the operating directory in 'Module_1.py' --> os.chdir('/User/RLNEK_tests/Module_1_test')###
