@@ -36,3 +36,17 @@ koff = force-dependent dissociation rate (1/ bond lifetime)
 k+ = effective on rate of cell/spheres (includes diffusive & kinetic timescales)
 kin = intrinsic on rate of receptor-ligand pair (assumed constant)
 ***Extension of variable names/descriptions: "appendix.pdf"***
+
+Copyright Disclaimer:
+
+Copyright Notice:
+Copyright 2021-2022 Allison Chan and Zachary A Rollins
+
+License Notice:
+This file is part of RLNEK.
+
+RLNEK is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+RLNEK is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with RLNEK. If not, see <https://www.gnu.org/licenses/>.
