@@ -35,3 +35,4 @@ Nb/NT = capture efficiency
 koff = force-dependent dissociation rate (1/ bond lifetime)
 k+ = effective on rate of cell/spheres (includes diffusive & kinetic timescales)
 kin = intrinsic on rate of receptor-ligand pair (assumed constant)
+***Extension of variable names/descriptions: "appendix.pdf"***
