@@ -21,7 +21,6 @@ Module 1 - determine Nb/NT & koff @ various flow rates, coating concentrations
 NT Optimization - optimize NT values for given flow rate across various site densities (precursor to Module 2)
 Module 2 - determine Nb/NT, koff, k+, & kin @ various flow rates, site densities
 
-
 Tips:
 1. Please read manuscript and corresponding User Guide to understand experimental parameters and data necessary to perform calculations.
 2. In previous versions of Trackmate, the files are outputted in different formats. Ensure that Trackmate "tracks" and "spots" files are formatted correctly (e.g., in the "spots" file, particleIDS are listed in numerical order of trackIDs & numerical order of frames). Use provided test files as a reference.
@@ -36,6 +35,9 @@ koff = force-dependent dissociation rate (1/ bond lifetime)
 k+ = effective on rate of cell/spheres (includes diffusive & kinetic timescales)
 kin = intrinsic on rate of receptor-ligand pair (assumed constant)
 ***Extension of variable names/descriptions: "appendix.pdf"***
+
+Digitized Data:
+Data that was digitized from previous manuscripts and used in this RLNEK manuscript is provided in the "Digitized_Data" folder. 
 
 Copyright Disclaimer:
 
