@@ -39,10 +39,8 @@ kin = intrinsic on rate of receptor-ligand pair (assumed constant)
 Digitized Data:
 Data that was digitized from previous manuscripts and used in this RLNEK manuscript is provided in the "Digitized_Data" folder. 
 
-Copyright Disclaimer:
-
 Copyright Notice:
-Copyright 2021-2022 Allison Chan and Zachary A Rollins
+Copyright 2021-2022 Allison Chan, Zachary A Rollins, Venktesh S. Shirure, Steven C. George, and The Regents of the University of California
 
 License Notice:
 This file is part of RLNEK.
