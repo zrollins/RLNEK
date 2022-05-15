@@ -1,6 +1,12 @@
 Corresponding Manuscript:
 "Receptor-Ligand Non-Equilibrium Kinetics (RLNEK) 1.0: An Integrated Trackmate Laminar Flow Chamber Analysis"
 
+PyPI installation (https://pypi.org/project/rlnek):
+pip install RLNEK
+
+Anaconda installation (https://anaconda.org/zrollins/rlnek):
+conda install -c zrollins rlnek
+
 Trackmate Dependencies:
 >=ImageJ 2.3.0/1.53f51
 >=Java 1.8.0_301 [64-bit]
@@ -12,6 +18,13 @@ RLNEK Dependencies:
 >= numpy 1.22.0
 >= scipy 1.7.3
 >= matplotlib 3.5.1
+
+Python (pip/conda) instructions:
+1. Open terminal/command line
+2. Navigate to folder with Trackmate csv files (i.e. cd /pathway/to/trackmate/csv/files)
+3. Run Module script (e.g., python3 -m rlnek.Module_1)
+4. Input relevant information to the RLNEK prompt (see RLNEK_tests)
+5. RLNEK outputs graphs/csvs to current directory 
 
 RLNEK Modules:
 Module 0A - convert flow rate to applied tether/tensile force
