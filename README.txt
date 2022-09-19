@@ -39,6 +39,7 @@ Tips:
 2. In previous versions of Trackmate, the files are outputted in different formats. Ensure that Trackmate "tracks" and "spots" files are formatted correctly (e.g., in the "spots" file, particleIDS are listed in numerical order of trackIDs & numerical order of frames). Use provided test files as a reference.
 3. All modules can handle replicates for a given condition. Please see test folders for implementation.
 4. Collect Receptor-Ligand Non-Equilibrium Kinetics.
+5. Use the Jupyter Notebooks versions for additional commented code, stepwise execution, and versatile parameter adjustment.
 
 Appendix:
 Nb = number of cells/spheres bound
