@@ -40,6 +40,8 @@ Tips:
 3. All modules can handle replicates for a given condition. Please see test folders for implementation.
 4. Collect Receptor-Ligand Non-Equilibrium Kinetics.
 5. Use the Jupyter Notebooks versions for additional commented code, stepwise execution, and versatile parameter adjustment.
+6. Trackmate user guide available in RLNEK_tests folder
+7. Batch process videos with provided ImageJ script
 
 Appendix:
 Nb = number of cells/spheres bound
